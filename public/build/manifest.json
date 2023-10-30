@@ -29,14 +29,14 @@
     "src": "src/MicroweberPackages/LiveEdit/resources/js/ui/apps/ElementStyleEditor/element-style-editor-app.js"
   },
   "src/MicroweberPackages/LiveEdit/resources/js/ui/live-edit-app.css": {
-    "file": "assets/live-edit-app-8123051f.css",
+    "file": "assets/live-edit-app-51386127.css",
     "src": "src/MicroweberPackages/LiveEdit/resources/js/ui/live-edit-app.css"
   },
   "src/MicroweberPackages/LiveEdit/resources/js/ui/live-edit-app.js": {
     "css": [
-      "assets/live-edit-app-8123051f.css"
+      "assets/live-edit-app-51386127.css"
     ],
-    "file": "assets/live-edit-app-df08f952.js",
+    "file": "assets/live-edit-app-84341993.js",
     "imports": [
       "_@core-70776db3.js",
       "_mitt-706898fc.js"
